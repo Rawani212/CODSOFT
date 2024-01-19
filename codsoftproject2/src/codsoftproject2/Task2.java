@@ -1,4 +1,5 @@
-package codsoft_2;
+package codsoftproject2;
+
 
 
 import java.util.*;
